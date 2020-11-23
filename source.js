@@ -3,4 +3,6 @@ var y = 2
 
 var total = x + y
 
-console.log("The total is " + total);
+console.log("The total is " + total)
+
+/* comments */
