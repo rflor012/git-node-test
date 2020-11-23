@@ -5,4 +5,4 @@ var total = x + y
 
 console.log("The total is " + total)
 
-/* comments */
+/* remembering how to push a local repo to remote repo*/
